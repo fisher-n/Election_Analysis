@@ -37,7 +37,6 @@ The inital analysis provided answers but left unanswered questions, Seth, the Co
         - Jefferson county cast 10.5% of the votes and 38,855 of the votes
         - Denver county cast 82.8% of the votes and 306,055 of the votes.
         - Arapahoe county cast 6.7% of the votes and 24,801 if the votes.
-     
     - Denver county had the largest number of votes.
     - The candidate results were:
         - Charles Casper Stockham recieved 23.0% of the vote and 85,213 of the votes.
